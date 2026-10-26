@@ -1,3 +1,3 @@
 # NPL-Homework-5
 
-Study of the dynamics of cinnamon rolls
+Study on the dynamics of cinnamon rolls
